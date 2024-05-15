@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Castillo</h1>
-<h3 align="center">A passionate frontend developer & Product Designer from Colombia</h3>
+<h3 align="center">A passionate Frontend Developer & Product Designer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafatoski&label=Profile%20views&color=0e75b6&style=flat" alt="rafatoski" /> </p>
 
