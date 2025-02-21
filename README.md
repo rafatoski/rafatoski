@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **Alaska.dev**
 
-- 🌱 I’m currently learning **React.js, PHP, Swift**
+- 🌱 I’m currently learning **React.js, PHP, Typescript**
 
-- 🤝 I’m looking for help with **User Experience**
+- 🤝 I’m looking for help with **Product Design UX/UI & Front-End**
 
 - 👨‍💻 All of my projects are available at [https://rafatoski.github.io/PortfolioPresentation/](https://rafatoski.github.io/PortfolioPresentation/)
 
-- 💬 Ask me about **CSS, User interface, Responsiveness**
+- 💬 Ask me about **CSS, User interface, Responsiveness and all related with visuals**
 
 - 📫 How to reach me **rafaelcastilloac89@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rafaelcastillocreative/](https://www.linkedin.com/in/rafaelcastillocreative/)
+- 📄 Know about my job experiences [https://www.linkedin.com/in/rafaelcastillocreative/](https://www.linkedin.com/in/rafaelcastillocreative/)
 
 - ⚡ Fun fact **I has been a Breakdancer 🤸 for over 10 years**
 
