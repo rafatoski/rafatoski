@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rafael Castillo</h1>
-<h3 align="center">A passionate Frontend Developer & Product Designer from Colombia</h3>
+<h3 align="center">A passionate Web Dev from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafatoski&label=Profile%20views&color=0e75b6&style=flat" alt="rafatoski" /> </p>
 
-- 🔭 I’m currently working on **Alaska.dev**
+- 🔭 I’m currently working on **XMS Ai**
 
-- 🌱 I’m currently learning **React.js, PHP, Typescript**
+- 🌱 I’m currently learning **N8N, Phyton, Ai**
 
-- 🤝 I’m looking for help with **Product Design UX/UI & Front-End**
+- 🤝 I’m looking for help with **Product Design UX/UI & Web Design**
 
 - 👨‍💻 All of my projects are available at [https://rafatoski.github.io/PortfolioPresentation/](https://rafatoski.github.io/PortfolioPresentation/)
 
