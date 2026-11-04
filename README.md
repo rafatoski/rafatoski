@@ -17,10 +17,6 @@ I combine AI engineering, full-stack development, and product design to turn com
 
 `OpenAI API` `n8n` `JavaScript` `TypeScript` `React` `Vue` `HTML` `CSS` `PHP` `GitHub Actions` `Figma`
 
-## This portfolio
-
-A curated selection of my work across AI, product design, automation, and web development. The site is built with semantic HTML, CSS, JavaScript, and Bootstrap, with responsive layouts, motion, and light/dark themes.
-
 ## Background
 
 My career spans product design, UX/UI, front-end development, and full-stack delivery. I have worked with remote, cross-functional teams in technology, real estate, marketing, and digital products. Today, I apply that experience to designing and engineering practical AI systems that improve how teams operate and how customers interact with software.
